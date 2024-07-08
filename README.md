@@ -3,7 +3,7 @@ SecondLife adalah platform online untuk memfasilitasi jual-beli barang bekas yan
 # FITUR UTAMA
 1. Search Product : Proses pencarian produk yang memungkinkan pengguna untuk menemukan produk yang mereka inginkan dengan mudah dan cepat di platform e-commerce.
 2. Add To Cart : Proses menambahkan produk yang diinginkan ke dalam keranjang dan melanjutkan ke proses checkout.
-3. Confirm Payment : Pengguna dapat mengonfirmasi detail pembayaran mereka. Sistem akan memvalidasi informasi tersebut, mengirim permintaan otorisasi ke gateway pembayaran, dan memberikan status pembayaran. Jika sukses, pesanan diperbarui menjadi "dibayar" dengan konfirmasi kepada pengguna. Jika gagal, sistem menampilkan pesan kesalahan dan meminta pengguna untuk mencoba lagi atau memilih metode pembayaran alternatif.
+3. Chat Online : Chat online pada toko online memungkinkan pelanggan untuk bertanya tentang produk, harga, ketersediaan stok, metode pembayaran, dan pengiriman. Layanan ini juga mendukung penyelesaian masalah atau keluhan pelanggan terkait pesanan atau produk yang mereka minati.
 # TEKNOLOGI YANG DIGUNAKAN 
 1. Framework : JavaFX
 2. Design Tools : Scene Builder
